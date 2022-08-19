@@ -1,0 +1,4 @@
+
+
+contacts: dict[str, str] = {}
+
